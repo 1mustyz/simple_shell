@@ -1,6 +1,5 @@
 #ifndef MAIN_H
 #define MAIN_H
-#define _HOLBERTON_H_
 #include <sys/wait.h>
 #include <sys/types.h>
 #include <stdio.h>
